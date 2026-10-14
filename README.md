@@ -34,7 +34,7 @@ odak:
   - Saldırı tespiti
   - Linux sunucu yönetimi
   - Web geliştirme (Laravel / Django)
-ilgi:     [Teknofest, CTF]
+ilgi:     [CTF, Pentest labları, OSINT]
 felsefe: >
   AI geliştiricinin yerini almaz;
   kodu anlayıp AI'yı doğru kullanan öne geçer.
