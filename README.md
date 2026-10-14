@@ -80,10 +80,10 @@ Pentest, saldırı tespiti ve önleme yapacak yapay zekâ destekli güvenlik aja
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Genesys Güvenlik Denetim Paneli
+### 🔐 [Genesys Güvenlik Denetim Paneli](https://github.com/ahmetcitakv/genesys-guvenlik-denetim)
 <img src="https://img.shields.io/badge/durum-tamamlandı_✓-00ff9c?style=flat-square&labelColor=0d1117" />
 
-Staj sürecinde geliştirdiğim, Genesys Cloud ortamını denetleyen web uygulaması.
+Genesys Cloud ortamındaki kullanıcı, rol ve OAuth yapılandırmasını denetleyen açık kaynak web aracı.
 
 - 👥 Aktif/pasif kullanıcı & admin rol analizi
 - 📊 100 üzerinden **güvenlik skoru**
@@ -91,6 +91,8 @@ Staj sürecinde geliştirdiğim, Genesys Cloud ortamını denetleyen web uygulam
 - 🔒 Oturum zaman aşımı, brute-force kilidi
 
 <sub>`Django` · `OAuth 2.0` · `REST API` · `Tailwind`</sub>
+
+<a href="https://github.com/ahmetcitakv/genesys-guvenlik-denetim"><img src="https://img.shields.io/badge/Kodu_incele_→-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" /></a>
 
 </td>
 </tr>
@@ -106,7 +108,7 @@ Retro sanal otel / oyun topluluğu platformu — web sitesi, oyun istemcisi, sun
 - 🛠️ 22 panelli yönetim paneli
 - ☕ Java emülatöründe güvenlik düzeltmeleri
 - 🐧 Ubuntu · Nginx · PM2 · MariaDB
-- 🔗 Link: lumahotel.pw
+- 🔗 [lumahotel.pw](https://lumahotel.pw)
 
 <sub>`Laravel` · `Java` · `React` · `TypeScript` · `Node.js`</sub>
 
